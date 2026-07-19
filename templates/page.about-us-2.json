@@ -44,10 +44,135 @@
         "mobile_content_alignment": "center",
         "show_text_below": false
       }
+    },
+    "rich_text_GyY8bj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_87zjgX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Engineered for Every Journey",
+            "heading_size": "h1"
+          }
+        },
+        "text_JmxQgE": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>Every journey begins with a decision to explore. Whether it's your daily commute, a weekend escape, or an adventure across continents, the gear you carry should support every step with confidence.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_87zjgX",
+        "text_JmxQgE"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_HNMp4G": {
+      "type": "multirow",
+      "blocks": {
+        "row_JnQQVX": {
+          "type": "row",
+          "settings": {
+            "caption": "Our Story",
+            "heading": "Nomad Gear : travel with functional, reliable, and beautifully simple gear.",
+            "text": "<p>We believe every traveler deserves equipment that works effortlessly, stays organized, and feels comfortable wherever the journey leads. Instead of following trends, we focus on thoughtful design that balances practicality with timeless aesthetics.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_kFR9yK": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Our Mission",
+            "text": "<p>To create travel gear that inspires confidence, keeps essentials organized, and supports every journey—big or small.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_ngdXhk": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "What We Believe",
+            "text": "<h3>Thoughtful Design</h3><p>Every pocket, compartment, and detail exists for a reason.</p><h3>Built for Everyday Adventures</h3><p>From daily routines to long-distance travel, our products are designed to adapt.</p><h3>Simplicity First</h3><p>Clean design, practical functionality, and no unnecessary complexity.</p><h3>Confidence in Every Journey</h3><p>Because the best adventures start when you're prepared.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_JnQQVX",
+        "row_kFR9yK",
+        "row_ngdXhk"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_rnYk3x": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Lyatgf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your next destination may change, but dependable gear never goes out of style.<br/><strong>Nomad Gear - </strong><em>Engineered for Every Journey.</em></p>"
+          }
+        },
+        "button_Pe8Cgn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_Lyatgf",
+        "button_Pe8Cgn"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_wt8Xbj"
+    "image_banner_wt8Xbj",
+    "rich_text_GyY8bj",
+    "multirow_HNMp4G",
+    "rich_text_rnYk3x"
   ]
 }
