@@ -9,8 +9,9 @@
  */
 {
   "current": {
-    "logo": "{{ shop.brand.logo }}",
-    "logo_width": 90,
+    "logo": "shopify://shop_images/NOMAD_GEAR_LOGO_TRANSPARENT_TYPE_ONLY.png",
+    "logo_width": 110,
+    "favicon": "shopify://shop_images/NOMAD_GEAR_LOGO_TRANSPARENT_GRAM_ONLY.png",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
