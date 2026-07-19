@@ -57,13 +57,54 @@
         "show_text_below": false
       }
     },
+    "collection_list_YGFG9G": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_c66TYH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "backpacks"
+          }
+        },
+        "featured_collection_CQ49WW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "packing-organization"
+          }
+        },
+        "featured_collection_xPTAy4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-products"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_c66TYH",
+        "featured_collection_CQ49WW",
+        "featured_collection_xPTAy4"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_UPG34B": {
       "type": "multicolumn",
       "blocks": {
         "column_LY9yJz": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Engineered for Every Journey",
             "text": "<p>Thoughtfully designed gear that adapts to daily commutes, weekend escapes, and long adventures.</p>",
             "link_label": "",
             "link": ""
@@ -72,7 +113,7 @@
         "column_Q3dbjG": {
           "type": "column",
           "settings": {
-            "title": "Engineered for Every Journey",
+            "title": "Smart Organization",
             "text": "<p>Dedicated compartments and practical layouts help keep every essential exactly where you need it.</p>",
             "link_label": "",
             "link": ""
@@ -121,54 +162,13 @@
         "padding_bottom": 36
       }
     },
-    "collection_list_YGFG9G": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_c66TYH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "backpacks"
-          }
-        },
-        "featured_collection_CQ49WW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "packing-organization"
-          }
-        },
-        "featured_collection_xPTAy4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "all-products"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_c66TYH",
-        "featured_collection_CQ49WW",
-        "featured_collection_xPTAy4"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection_6M8F3w": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "collection": "all-products",
         "products_to_show": 4,
-        "title": "Featured collection",
+        "title": "Featured Products",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -194,8 +194,8 @@
   },
   "order": [
     "image_banner",
-    "multicolumn_UPG34B",
     "collection_list_YGFG9G",
+    "multicolumn_UPG34B",
     "featured_collection_6M8F3w"
   ]
 }
