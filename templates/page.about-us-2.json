@@ -99,22 +99,11 @@
             "button_label": "Button label",
             "button_link": ""
           }
-        },
-        "row_ngdXhk": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "What We Believe",
-            "text": "<h3>Thoughtful Design</h3><p>Every pocket, compartment, and detail exists for a reason.</p><h3>Built for Everyday Adventures</h3><p>From daily routines to long-distance travel, our products are designed to adapt.</p><h3>Simplicity First</h3><p>Clean design, practical functionality, and no unnecessary complexity.</p><h3>Confidence in Every Journey</h3><p>Because the best adventures start when you're prepared.</p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "row_JnQQVX",
-        "row_kFR9yK",
-        "row_ngdXhk"
+        "row_kFR9yK"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -167,6 +156,60 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "multicolumn_pkRaVq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PWCWJ7": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VPPk6D": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ETh4Bc": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PWCWJ7",
+        "column_VPPk6D",
+        "column_ETh4Bc"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Button label",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -174,6 +217,7 @@
     "image_banner_wt8Xbj",
     "rich_text_GyY8bj",
     "multirow_HNMp4G",
-    "rich_text_rnYk3x"
+    "rich_text_rnYk3x",
+    "multicolumn_pkRaVq"
   ]
 }
