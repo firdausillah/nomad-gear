@@ -83,20 +83,22 @@
         "row_JnQQVX": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/28_Jul_2026_18.33.01.png",
             "caption": "Our Story",
             "heading": "Nomad Gear : travel with functional, reliable, and beautifully simple gear.",
             "text": "<p>We believe every traveler deserves equipment that works effortlessly, stays organized, and feels comfortable wherever the journey leads. Instead of following trends, we focus on thoughtful design that balances practicality with timeless aesthetics.</p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
         "row_kFR9yK": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/28_Jul_2026_18.33.03.png",
             "caption": "",
             "heading": "Our Mission",
             "text": "<p>To create travel gear that inspires confidence, keeps essentials organized, and supports every journey—big or small.</p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -202,8 +204,8 @@
         "button_Pe8Cgn": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Explore Gear for You",
+            "button_link": "shopify://collections/all",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
