@@ -122,41 +122,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_rnYk3x": {
-      "type": "rich-text",
-      "blocks": {
-        "text_Lyatgf": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Your next destination may change, but dependable gear never goes out of style.<br/><strong>Nomad Gear - </strong><em>Engineered for Every Journey.</em></p>"
-          }
-        },
-        "button_Pe8Cgn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text_Lyatgf",
-        "button_Pe8Cgn"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_pkRaVq": {
       "type": "multicolumn",
       "blocks": {
@@ -211,8 +176,8 @@
       "settings": {
         "title": "What We Believe",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "third",
+        "image_ratio": "circle",
         "button_label": "Button label",
         "button_link": "",
         "columns_desktop": 4,
@@ -223,6 +188,41 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_rnYk3x": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Lyatgf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your next destination may change, but dependable gear never goes out of style.<br/><strong>Nomad Gear - </strong><em>Engineered for Every Journey.</em></p>"
+          }
+        },
+        "button_Pe8Cgn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_Lyatgf",
+        "button_Pe8Cgn"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
