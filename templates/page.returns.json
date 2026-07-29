@@ -23,7 +23,7 @@
         "heading_VJgpjD": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Returns",
             "heading_size": "h0"
           }
         }
@@ -45,10 +45,42 @@
         "mobile_content_alignment": "center",
         "show_text_below": false
       }
+    },
+    "rich_text_qG9BXc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9AWGHR": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_aYK3mY": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Travel With Confidence</h2><p>We want you to feel confident choosing your gear.</p><p>If your purchase is not the right fit for your journey, our return process is designed to make things simple.</p><h2>Return Window</h2><p>You may request a return within <strong>30 days</strong> of receiving your order.</p><h2>Return Requirements</h2><p>To be eligible for a return, items must be:</p><ul><li>Unused and in original condition</li><li>Returned with original packaging</li><li>Free from damage, marks, or signs of use</li></ul><h2>How to Start a Return</h2><p>To request a return:</p><ol><li>Contact our support team with your order number.</li><li>Receive return instructions from our team.</li><li>Send your item back following the provided guidelines.</li><li>Once approved, your refund will be processed.</li></ol><h2>Refunds</h2><p>Approved refunds are processed within <strong>5–7 business days</strong> after the returned item has been received and inspected.</p><p>Refunds will be issued to the original payment method.</p><h2>Exchanges</h2><p>Need a different size or product?</p><p>Contact our support team and we will help you find the right gear for your next journey.</p><h2>Need Help?</h2><p>If you have questions about returns or exchanges, please contact our support team.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9AWGHR",
+        "text_aYK3mY"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_wt8Xbj"
+    "image_banner_wt8Xbj",
+    "rich_text_qG9BXc"
   ]
 }
