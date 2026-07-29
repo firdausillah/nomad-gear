@@ -23,7 +23,7 @@
         "heading_VJgpjD": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Frequently Asked Question</strong>",
+            "heading": "Frequently Asked Question",
             "heading_size": "h0"
           }
         }
@@ -34,7 +34,7 @@
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/ChatGPT_Image_22_Jul_2026_09.43.56.png",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 50,
         "image_height": "small",
         "image_behavior": "none",
         "desktop_content_position": "middle-center",
