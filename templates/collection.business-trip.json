@@ -45,14 +45,14 @@
         "heading_NH6jDq": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "<strong>Business Trip</strong>",
             "heading_size": "h1"
           }
         },
         "text_V7C9WL": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Designed for professionals who need to stay organized, travel efficiently, and move confidently during short business trips. Carry only what matters while keeping work essentials within easy reach.",
             "text_style": "body"
           }
         }
@@ -79,7 +79,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "collection": "",
+        "collection": "business-trip",
         "products_to_show": 4,
         "title": "Featured collection",
         "heading_size": "h1",
@@ -91,7 +91,7 @@
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
