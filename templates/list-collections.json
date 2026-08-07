@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-list-collections",
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "sort": "alphabetical",
@@ -18,9 +19,65 @@
         "columns_desktop": 3,
         "columns_mobile": "2"
       }
+    },
+    "collection_list_jfYmdL": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_8WErLF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "travel-essentials"
+          }
+        },
+        "featured_collection_QmXCVm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "backpacks"
+          }
+        },
+        "featured_collection_nYqVp3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "duffel-bags"
+          }
+        },
+        "featured_collection_LCByWD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "packing-organization"
+          }
+        },
+        "featured_collection_JCmbrr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-products"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_8WErLF",
+        "featured_collection_QmXCVm",
+        "featured_collection_nYqVp3",
+        "featured_collection_LCByWD",
+        "featured_collection_JCmbrr"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "collection_list_jfYmdL"
   ]
 }
