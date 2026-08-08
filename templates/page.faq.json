@@ -1,0 +1,177 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_wt8Xbj": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VJgpjD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Question",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VJgpjD"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_22_Jul_2026_09.43.56.png",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "collapsible_content_zJUB6n": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_4mpff3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What size backpack should I choose?",
+            "icon": "none",
+            "row_content": "<p>The right backpack depends on the length of your trip.</p><ul><li><strong>25L</strong> — Daily commuting, work, and weekend trips</li><li><strong>35L</strong> — 2–5 day travel</li><li><strong>45L</strong> — Extended travel and adventure trips</li></ul><p>Each product page includes recommended trip duration, dimensions, and key specifications to help you choose the right size.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_B43bK7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are your backpacks carry-on friendly?",
+            "icon": "none",
+            "row_content": "<p>Most of ourtravel backpacks aredesigned to fitstandardairline carry-onrequirements. However,baggage policies varybetween airlines, sowe recommend checkingyour airline's sizerestrictions before traveling.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xb9jB8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What materials are your products made from?",
+            "icon": "none",
+            "row_content": "<p>Our products aremade from durable, travel-ready materialsselected for everydayuse. Material information, weight, dimensions, andother specifications arelisted on eachproduct page.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_PCV7kr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are your products waterproof?",
+            "icon": "none",
+            "row_content": "<p>Some products aremade with water-resistant or waterproofmaterials depending ontheirintended use. Pleaserefer to theproduct specificationsfor detailed informationabout water resistanceand protection.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Y8EHrT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do your backpacks fit laptops?",
+            "icon": "none",
+            "row_content": "<p>Many of ourbackpacks include dedicatedlaptop compartments. Themaximum supported laptopsize is listedin each product'sspecifications.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QYGQkb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I return a product if it isn't right for me?",
+            "icon": "none",
+            "row_content": "<p>Yes. We accept returnson eligible itemswithin our returnwindow, provided theproduct is unusedand in itsoriginal condition. Pleasevisitour Returns pagefor complete details.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JKMfeN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does shipping take?",
+            "icon": "none",
+            "row_content": "<p>Delivery times dependon your locationand the shippingmethod selected duringcheckout.Orders are typicallyprocessed within 1–2 business daysbefore shipment.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_iKBVjd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I track my order?",
+            "icon": "none",
+            "row_content": "<p>Once your orderhas been shipped, you'll receive aconfirmation email withtracking information soyou can followyour package throughoutits journey.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_m4fR3K": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I contact customer support?",
+            "icon": "none",
+            "row_content": "<p>If you haveany questions beforeor after placingan order, oursupport team ishere to help. Visit the Contactpage and we'llget back toyou as soonas possible.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jFLbbb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do your products include a warranty?",
+            "icon": "none",
+            "row_content": "<p>Selected products includea limited warrantyagainst manufacturing defects. Warranty information isavailable on theindividual product pageswhere applicable.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_4mpff3",
+        "collapsible_row_B43bK7",
+        "collapsible_row_xb9jB8",
+        "collapsible_row_PCV7kr",
+        "collapsible_row_Y8EHrT",
+        "collapsible_row_QYGQkb",
+        "collapsible_row_JKMfeN",
+        "collapsible_row_iKBVjd",
+        "collapsible_row_m4fR3K",
+        "collapsible_row_jFLbbb"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_wt8Xbj",
+    "collapsible_content_zJUB6n"
+  ]
+}

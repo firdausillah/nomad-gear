@@ -1,0 +1,78 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_wt8Xbj": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VJgpjD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shipping",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VJgpjD"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_22_Jul_2026_09.43.56.png",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "rich_text_4HQwHX": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9t9kaf": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Ready for Your Next Journey</h2><p>At Nomad Gear Co., we carefully prepare every order to ensure your travel gear arrives ready for your next adventure.</p><h2>Order Processing</h2><p>Orders are processed within <strong>1–2 business days</strong> after payment confirmation.</p><p>During peak seasons or product launches, processing times may take slightly longer.</p><p>You will receive an order confirmation email once your purchase has been successfully placed.</p><h2>Shipping Methods</h2><h3>Standard Shipping</h3><p>Estimated delivery:</p><p><strong>3–7 business days</strong></p><p>A reliable option for everyday purchases and planned journeys.</p><h3>Express Shipping</h3><p>Estimated delivery:</p><p><strong>1–3 business days</strong></p><p>Available for selected locations at checkout.</p><h2>Tracking Your Order</h2><p>Once your order has shipped, you will receive a confirmation email with tracking information.</p><p>Use your tracking number to follow your package from our warehouse to your destination.</p><h2>International Shipping</h2><p>We currently ship to selected international destinations.</p><p>Available shipping options and delivery estimates will be displayed during checkout.</p><h2>Need Help?</h2><p>Have questions about your order or delivery?</p><p>Our support team is ready to help you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9t9kaf"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_wt8Xbj",
+    "rich_text_4HQwHX"
+  ]
+}

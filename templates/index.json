@@ -46,7 +46,7 @@
       "settings": {
         "image": "shopify://shop_images/ChatGPT_Image_14_Jul_2026_11.22.08_Medium_09824b07-d2f6-4813-9233-d4eab60ce580.png",
         "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_height": "medium",
         "image_behavior": "none",
         "desktop_content_position": "middle-left",
         "desktop_content_alignment": "left",
@@ -104,8 +104,9 @@
         "column_LY9yJz": {
           "type": "column",
           "settings": {
-            "title": "Engineered for Every Journey",
-            "text": "<p>Thoughtfully designed gear that adapts to daily commutes, weekend escapes, and long adventures.</p>",
+            "image": "shopify://shop_images/icon-1.png",
+            "title": "Thoughtful Design",
+            "text": "<p>Designed gear that adapts to daily commutes, weekend escapes, and long adventures.</p>",
             "link_label": "",
             "link": ""
           }
@@ -113,7 +114,8 @@
         "column_Q3dbjG": {
           "type": "column",
           "settings": {
-            "title": "Smart Organization",
+            "image": "shopify://shop_images/icon-2.png",
+            "title": "Built for Every Journey",
             "text": "<p>Dedicated compartments and practical layouts help keep every essential exactly where you need it.</p>",
             "link_label": "",
             "link": ""
@@ -122,7 +124,8 @@
         "column_qrbxbr": {
           "type": "column",
           "settings": {
-            "title": "Smart Organization",
+            "image": "shopify://shop_images/icon-3.png",
+            "title": "Comfort First",
             "text": "<p>Designed with comfort in mind, so every trip feels lighter from start to finish.</p>",
             "link_label": "",
             "link": ""
@@ -131,7 +134,8 @@
         "column_aRJ6cL": {
           "type": "column",
           "settings": {
-            "title": "Timeless Design",
+            "image": "shopify://shop_images/icon-4.png",
+            "title": "Timeless Style",
             "text": "<p>Minimalist aesthetics that blend seamlessly into work, travel, and everyday life.</p>",
             "link_label": "",
             "link": ""
@@ -146,15 +150,15 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "What We Believe",
         "heading_size": "h1",
         "image_width": "third",
-        "image_ratio": "adapt",
+        "image_ratio": "circle",
         "button_label": "",
         "button_link": "",
         "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
+        "column_alignment": "center",
+        "background_style": "none",
         "color_scheme": "",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
@@ -178,7 +182,7 @@
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "color_scheme": "",
+        "color_scheme": "scheme-c43ea890-c644-4e58-9922-68b07ff7de87",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
