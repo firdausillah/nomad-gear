@@ -42,6 +42,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_Aug_7_2026_09_54_39_PM.png",
         "image_overlay_opacity": 50,
         "image_height": "small",
         "image_behavior": "none",
