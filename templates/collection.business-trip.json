@@ -86,8 +86,8 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
+        "title": "A 3-day business trip with everything you need to work, travel, and stay organized.",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "circle",
         "button_label": "",
