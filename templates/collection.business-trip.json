@@ -34,6 +34,74 @@
         "show_text_below": true
       }
     },
+    "multicolumn_BPLR98": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gy86Uj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_taQLkN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Vpq7bn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/3.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_C8Q7Un": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/4.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gy86Uj",
+        "column_taQLkN",
+        "column_Vpq7bn",
+        "column_C8Q7Un"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "button_label": "Button label",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "brand-light",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -58,6 +126,7 @@
   "order": [
     "banner",
     "image_banner_collection_itnwxz",
+    "multicolumn_BPLR98",
     "product-grid"
   ]
 }
