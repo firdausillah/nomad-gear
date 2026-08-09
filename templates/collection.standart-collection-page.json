@@ -9,17 +9,17 @@
  */
 {
   "sections": {
-    "image_banner_collection_kfxRVF": {
+    "image_banner_collection_Kb8ky9": {
       "type": "image-banner-collection",
       "name": "Image Banner Collection",
       "settings": {
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 50,
         "image_height": "medium",
         "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": true,
-        "color_scheme": "",
+        "desktop_content_position": "middle-left",
+        "desktop_content_alignment": "left",
+        "show_text_box": false,
+        "color_scheme": "scheme-3",
         "stack_images_on_mobile": true,
         "mobile_content_alignment": "center",
         "show_text_below": true
@@ -27,6 +27,7 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
@@ -55,7 +56,7 @@
     }
   },
   "order": [
-    "image_banner_collection_kfxRVF",
+    "image_banner_collection_Kb8ky9",
     "banner",
     "product-grid"
   ]
