@@ -33,11 +33,23 @@
             "text": "Stay organized, travel light, and keep your workspace ready wherever the journey takes you.",
             "text_style": "subtitle"
           }
+        },
+        "buttons_6UVfhr": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Explore Remote Work Gear",
+            "button_link_1": "shopify://collections/remote-work",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading_VJgpjD",
-        "text_hkMawp"
+        "text_hkMawp",
+        "buttons_6UVfhr"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
