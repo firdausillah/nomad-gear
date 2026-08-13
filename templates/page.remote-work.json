@@ -1,0 +1,74 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_wt8Xbj": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VJgpjD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Work from anywhere. Actually.",
+            "heading_size": "h0"
+          }
+        },
+        "text_hkMawp": {
+          "type": "text",
+          "settings": {
+            "text": "Stay organized, travel light, and keep your workspace ready wherever the journey takes you.",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_6UVfhr": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Explore Remote Work Gear",
+            "button_link_1": "shopify://collections/remote-work",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VJgpjD",
+        "text_hkMawp",
+        "buttons_6UVfhr"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_22_Jul_2026_09.43.56.png",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-left",
+        "desktop_content_alignment": "left",
+        "show_text_box": false,
+        "color_scheme": "scheme-3",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_wt8Xbj"
+  ]
+}
