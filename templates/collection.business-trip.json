@@ -34,13 +34,81 @@
         "show_text_below": true
       }
     },
+    "multicolumn_BPLR98": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gy86Uj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1.jpg",
+            "title": "Work Essentials",
+            "text": "<p>Keep your laptop, tech gear, and work essentials organized and within easy reach.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_taQLkN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2.jpg",
+            "title": "Travel Documents",
+            "text": "<p>Keep passports, documents, and other essentials secure and easy to access.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Vpq7bn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/3.jpg",
+            "title": "Easy Organization",
+            "text": "<p>Separate and organize your gear so everything stays in its place throughout the trip.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_C8Q7Un": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/4.jpg",
+            "title": "Carry-on Friendly",
+            "text": "<p>Pack everything you need for a short business trip without unnecessary bulk.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gy86Uj",
+        "column_taQLkN",
+        "column_Vpq7bn",
+        "column_C8Q7Un"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "A 3-day business trip with everything you need to work, travel, and stay organized.",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "brand-light",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 4,
         "columns_mobile": "2",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-c43ea890-c644-4e58-9922-68b07ff7de87",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
@@ -58,6 +126,7 @@
   "order": [
     "banner",
     "image_banner_collection_itnwxz",
+    "multicolumn_BPLR98",
     "product-grid"
   ]
 }
