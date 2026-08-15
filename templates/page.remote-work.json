@@ -72,6 +72,7 @@
         "feature_Gw8dXz": {
           "type": "feature",
           "settings": {
+            "image": "shopify://shop_images/1.jpg",
             "title": "Work Anywhere, Pack Everything",
             "text": "Your workspace needs more than a laptop, but carrying everything quickly adds bulk."
           }
@@ -79,6 +80,7 @@
         "feature_PtLbTd": {
           "type": "feature",
           "settings": {
+            "image": "shopify://shop_images/3.jpg",
             "title": "Stay Organized on the Move",
             "text": "Cables, chargers, documents, and everyday essentials can easily become a mess while traveling."
           }
@@ -86,6 +88,7 @@
         "feature_LpAT9a": {
           "type": "feature",
           "settings": {
+            "image": "shopify://shop_images/4.jpg",
             "title": "Keep Moving Without the Hassle",
             "text": "Switching between workspaces and destinations shouldn't mean constantly unpacking and reorganizing your gear."
           }
