@@ -101,7 +101,7 @@
       ],
       "name": "Image With Features",
       "settings": {
-        "label": "Paint Point",
+        "label": "",
         "heading": "What gets in the way of productive days",
         "main_image": "shopify://shop_images/ChatGPT_Image_15_Agu_2026_21.50.16.png",
         "image_offset_x": 20,
