@@ -114,6 +114,7 @@
         "solution_card_3bKhQE": {
           "type": "solution_card",
           "settings": {
+            "image": "shopify://shop_images/solution_1.jpg",
             "title": "Carry Smarter",
             "description": "<p>Carry the essentials you need to work comfortably without adding unnecessary bulk.</p>"
           }
@@ -121,6 +122,7 @@
         "solution_card_JhQ8Ca": {
           "type": "solution_card",
           "settings": {
+            "image": "shopify://shop_images/solution_2.jpg",
             "title": "Keep Everything Organized",
             "description": "<p>Keep cables, chargers, documents, and daily essentials separated and easy to access.</p>"
           }
@@ -128,6 +130,7 @@
         "solution_card_whBVKb": {
           "type": "solution_card",
           "settings": {
+            "image": "shopify://shop_images/solution_3.jpg",
             "title": "Move Seamlessly",
             "description": "<p>Designed to make switching between workspaces, cities, and destinations simple and hassle-free.</p>"
           }
