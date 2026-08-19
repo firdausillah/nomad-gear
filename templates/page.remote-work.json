@@ -65,10 +65,54 @@
         "mobile_content_alignment": "center",
         "show_text_below": false
       }
+    },
+    "image_with_features_wEENqE": {
+      "type": "image-with-features",
+      "blocks": {
+        "feature_Gw8dXz": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/1.jpg",
+            "title": "Work Anywhere, Pack Everything",
+            "text": "Your workspace needs more than a laptop, but carrying everything quickly adds bulk."
+          }
+        },
+        "feature_PtLbTd": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/3.jpg",
+            "title": "Stay Organized on the Move",
+            "text": "Cables, chargers, documents, and everyday essentials can easily become a mess while traveling."
+          }
+        },
+        "feature_LpAT9a": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/4.jpg",
+            "title": "Keep Moving Without the Hassle",
+            "text": "Switching between workspaces and destinations shouldn't mean constantly unpacking and reorganizing your gear."
+          }
+        }
+      },
+      "block_order": [
+        "feature_Gw8dXz",
+        "feature_PtLbTd",
+        "feature_LpAT9a"
+      ],
+      "name": "Image With Features",
+      "settings": {
+        "label": "",
+        "heading": "What gets in the way of productive days",
+        "main_image": "shopify://shop_images/ChatGPT_Image_15_Agu_2026_21.50.16.png",
+        "image_offset_x": 20,
+        "image_offset_y": -30,
+        "color_scheme": ""
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_wt8Xbj"
+    "image_banner_wt8Xbj",
+    "image_with_features_wEENqE"
   ]
 }
