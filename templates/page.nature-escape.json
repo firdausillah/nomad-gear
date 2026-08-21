@@ -157,7 +157,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "collection": "remote-work",
+        "collection": "nature-escape",
         "products_to_show": 4,
         "title": "Explore Remote Work Gear",
         "heading_size": "h1",
