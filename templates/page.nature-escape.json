@@ -66,6 +66,49 @@
         "show_text_below": false
       }
     },
+    "rich_text_tnFcDy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HfjEka": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Built for getting out there.</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_xjeGeG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Escape into nature with dependable essentials designed for outdoor readiness, comfortable carrying, and simple packing. Because the less you think about your gear, the more you can focus on the journey.</p>"
+          }
+        },
+        "button_cEzmhz": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HfjEka",
+        "text_xjeGeG",
+        "button_cEzmhz"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "brand-cream",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection_79AGqB": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
@@ -99,6 +142,7 @@
   "order": [
     "main",
     "image_banner_wt8Xbj",
+    "rich_text_tnFcDy",
     "featured_collection_79AGqB"
   ]
 }
