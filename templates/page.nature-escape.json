@@ -115,8 +115,8 @@
         "column_Ut4gj4": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Durable by design",
+            "text": "<p>Thoughtfully made to handle the demands of getting outside.</p>",
             "link_label": "",
             "link": ""
           }
@@ -124,8 +124,8 @@
         "column_qaTAi8": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Outdoor ready",
+            "text": "<p>Practical essentials for changing conditions and changing plans.</p>",
             "link_label": "",
             "link": ""
           }
@@ -133,8 +133,8 @@
         "column_eMwr7X": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Comfortable to carry",
+            "text": "<p>Thoughtful designs that help you move lighter and stay comfortable.</p>",
             "link_label": "",
             "link": ""
           }
@@ -154,9 +154,9 @@
         "button_label": "",
         "button_link": "",
         "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "",
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-c43ea890-c644-4e58-9922-68b07ff7de87",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 60,
