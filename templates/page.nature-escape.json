@@ -105,8 +105,8 @@
         "content_alignment": "center",
         "color_scheme": "brand-cream",
         "full_width": true,
-        "padding_top": 60,
-        "padding_bottom": 60
+        "padding_top": 80,
+        "padding_bottom": 80
       }
     },
     "multicolumn_R9chKa": {
@@ -159,8 +159,8 @@
         "color_scheme": "scheme-c43ea890-c644-4e58-9922-68b07ff7de87",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 60
+        "padding_top": 80,
+        "padding_bottom": 80
       }
     },
     "featured_collection_79AGqB": {
