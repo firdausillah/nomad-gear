@@ -175,6 +175,56 @@
         "padding_bottom": 80
       }
     },
+    "featured_product_nomad_gear_nqfJiV": {
+      "type": "featured-product-nomad-gear",
+      "blocks": {
+        "attribute_BiVFbY": {
+          "type": "attribute",
+          "settings": {
+            "label": "Capacity",
+            "value": "45L"
+          }
+        },
+        "attribute_Laay3g": {
+          "type": "attribute",
+          "settings": {
+            "label": "Trip duration",
+            "value": "Multi-day"
+          }
+        },
+        "attribute_d3CqEm": {
+          "type": "attribute",
+          "settings": {
+            "label": "Carry",
+            "value": "Comfortable"
+          }
+        },
+        "attribute_8Aa8Vh": {
+          "type": "attribute",
+          "settings": {
+            "label": "Warranty",
+            "value": "Included"
+          }
+        }
+      },
+      "block_order": [
+        "attribute_BiVFbY",
+        "attribute_Laay3g",
+        "attribute_d3CqEm",
+        "attribute_8Aa8Vh"
+      ],
+      "name": "Venture Product",
+      "settings": {
+        "product": "atlas-backpack-25l",
+        "color_scheme": "scheme-4",
+        "section_id": "",
+        "eyebrow": "The foundation",
+        "heading": "",
+        "use_product_description": true,
+        "custom_description": "<p>Built for longer escapes and heavier loads without making your journey feel heavier. A dependable carry for outdoor adventures and multi-day trips.</p>",
+        "button_label": "View product"
+      }
+    },
     "featured_collection_79AGqB": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
@@ -210,6 +260,7 @@
     "image_banner_wt8Xbj",
     "rich_text_tnFcDy",
     "multicolumn_R9chKa",
+    "featured_product_nomad_gear_nqfJiV",
     "featured_collection_79AGqB"
   ]
 }
