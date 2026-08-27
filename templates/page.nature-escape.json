@@ -23,21 +23,21 @@
         "heading_VJgpjD": {
           "type": "heading",
           "settings": {
-            "heading": "Work from anywhere. Actually.",
+            "heading": "Go Further.Carry Smarter.",
             "heading_size": "h0"
           }
         },
         "text_hkMawp": {
           "type": "text",
           "settings": {
-            "text": "Stay organized, travel light, and keep your workspace ready wherever the journey takes you.",
+            "text": "Dependable gear for day trips, camping, and outdoor adventures. Built to keep up with wherever the journey takes you.",
             "text_style": "subtitle"
           }
         },
         "buttons_6UVfhr": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Explore Remote Work Gear",
+            "button_label_1": "Explore Nature Escape Gear",
             "button_link_1": "shopify://collections/remote-work",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -53,7 +53,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/ChatGPT_Image_22_Jul_2026_09.43.56.png",
+        "image": "shopify://shop_images/ChatGPT_Image_Aug_27_2026_08_19_17_AM.png",
         "image_overlay_opacity": 50,
         "image_height": "medium",
         "image_behavior": "none",
