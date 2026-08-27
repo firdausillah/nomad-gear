@@ -69,6 +69,14 @@
     "rich_text_tnFcDy": {
       "type": "rich-text",
       "blocks": {
+        "caption_LqcWNG": {
+          "type": "caption",
+          "settings": {
+            "caption": "Nature Escape",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "heading_HfjEka": {
           "type": "heading",
           "settings": {
@@ -95,6 +103,7 @@
         }
       },
       "block_order": [
+        "caption_LqcWNG",
         "heading_HfjEka",
         "text_xjeGeG",
         "button_cEzmhz"
