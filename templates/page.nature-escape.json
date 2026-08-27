@@ -181,9 +181,9 @@
       "settings": {
         "collection": "nature-escape",
         "products_to_show": 4,
-        "title": "Explore Your Nature Escape Companion",
+        "title": "Pack what matters.",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p>A focused selection of dependable gear for your next escape.</p>",
         "show_description": false,
         "description_style": "body",
         "columns_desktop": 4,
