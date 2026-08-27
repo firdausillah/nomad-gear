@@ -1,0 +1,212 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_wt8Xbj": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VJgpjD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Go Further.Carry Smarter.",
+            "heading_size": "h0"
+          }
+        },
+        "text_hkMawp": {
+          "type": "text",
+          "settings": {
+            "text": "Dependable gear for day trips, camping, and outdoor adventures. Built to keep up with wherever the journey takes you.",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_6UVfhr": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Explore Nature Escape Gear",
+            "button_link_1": "shopify://collections/remote-work",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VJgpjD",
+        "text_hkMawp",
+        "buttons_6UVfhr"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_Aug_27_2026_08_19_17_AM.png",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-left",
+        "desktop_content_alignment": "left",
+        "show_text_box": false,
+        "color_scheme": "scheme-3",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "rich_text_tnFcDy": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_LqcWNG": {
+          "type": "caption",
+          "settings": {
+            "caption": "Nature Escape",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_HfjEka": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Built for getting out there.</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_xjeGeG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Escape into nature with dependable essentials designed for outdoor readiness, comfortable carrying, and simple packing. Because the less you think about your gear, the more you can focus on the journey.</p>"
+          }
+        },
+        "button_cEzmhz": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_LqcWNG",
+        "heading_HfjEka",
+        "text_xjeGeG",
+        "button_cEzmhz"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "brand-cream",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "multicolumn_R9chKa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Ut4gj4": {
+          "type": "column",
+          "settings": {
+            "title": "Durable by design",
+            "text": "<p>Thoughtfully made to handle the demands of getting outside.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qaTAi8": {
+          "type": "column",
+          "settings": {
+            "title": "Outdoor ready",
+            "text": "<p>Practical essentials for changing conditions and changing plans.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eMwr7X": {
+          "type": "column",
+          "settings": {
+            "title": "Comfortable to carry",
+            "text": "<p>Thoughtful designs that help you move lighter and stay comfortable.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Ut4gj4",
+        "column_qaTAi8",
+        "column_eMwr7X"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-c43ea890-c644-4e58-9922-68b07ff7de87",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "featured_collection_79AGqB": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "nature-escape",
+        "products_to_show": 4,
+        "title": "Explore Your Nature Escape Companion",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_wt8Xbj",
+    "rich_text_tnFcDy",
+    "multicolumn_R9chKa",
+    "featured_collection_79AGqB"
+  ]
+}
