@@ -124,6 +124,7 @@
         "column_Ut4gj4": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/icon-1.png",
             "title": "Durable by design",
             "text": "<p>Thoughtfully made to handle the demands of getting outside.</p>",
             "link_label": "",
@@ -133,6 +134,7 @@
         "column_qaTAi8": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/icon-4.png",
             "title": "Outdoor ready",
             "text": "<p>Practical essentials for changing conditions and changing plans.</p>",
             "link_label": "",
@@ -142,6 +144,7 @@
         "column_eMwr7X": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/icon-2.png",
             "title": "Comfortable to carry",
             "text": "<p>Thoughtful designs that help you move lighter and stay comfortable.</p>",
             "link_label": "",
@@ -158,8 +161,8 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "third",
+        "image_ratio": "circle",
         "button_label": "",
         "button_link": "",
         "columns_desktop": 3,
@@ -172,15 +175,65 @@
         "padding_bottom": 80
       }
     },
+    "featured_product_nomad_gear_nqfJiV": {
+      "type": "featured-product-nomad-gear",
+      "blocks": {
+        "attribute_BiVFbY": {
+          "type": "attribute",
+          "settings": {
+            "label": "Capacity",
+            "value": "45L"
+          }
+        },
+        "attribute_Laay3g": {
+          "type": "attribute",
+          "settings": {
+            "label": "Trip duration",
+            "value": "Multi-day"
+          }
+        },
+        "attribute_d3CqEm": {
+          "type": "attribute",
+          "settings": {
+            "label": "Carry",
+            "value": "Comfortable"
+          }
+        },
+        "attribute_8Aa8Vh": {
+          "type": "attribute",
+          "settings": {
+            "label": "Warranty",
+            "value": "Included"
+          }
+        }
+      },
+      "block_order": [
+        "attribute_BiVFbY",
+        "attribute_Laay3g",
+        "attribute_d3CqEm",
+        "attribute_8Aa8Vh"
+      ],
+      "name": "Venture Product",
+      "settings": {
+        "product": "atlas-backpack-25l",
+        "color_scheme": "scheme-4",
+        "section_id": "",
+        "eyebrow": "The foundation",
+        "heading": "",
+        "use_product_description": true,
+        "custom_description": "<p>Built for longer escapes and heavier loads without making your journey feel heavier. A dependable carry for outdoor adventures and multi-day trips.</p>",
+        "button_label": "View product"
+      }
+    },
     "featured_collection_79AGqB": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "collection": "nature-escape",
         "products_to_show": 4,
-        "title": "Explore Your Nature Escape Companion",
+        "title": "Pack what matters.",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p>A focused selection of dependable gear for your next escape.</p>",
         "show_description": false,
         "description_style": "body",
         "columns_desktop": 4,
@@ -200,6 +253,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_cxjRrT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yL9HtJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready for your next escape?",
+            "heading_size": "h1"
+          }
+        },
+        "text_mxxgHk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore dependable gear designed to help you move smarter, pack lighter, and explore with confidence.</p>"
+          }
+        },
+        "button_BgnbeH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore nature escape",
+            "button_link": "shopify://collections/nature-escape",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yL9HtJ",
+        "text_mxxgHk",
+        "button_BgnbeH"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "brand-light",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -207,6 +303,8 @@
     "image_banner_wt8Xbj",
     "rich_text_tnFcDy",
     "multicolumn_R9chKa",
-    "featured_collection_79AGqB"
+    "featured_product_nomad_gear_nqfJiV",
+    "featured_collection_79AGqB",
+    "rich_text_cxjRrT"
   ]
 }
