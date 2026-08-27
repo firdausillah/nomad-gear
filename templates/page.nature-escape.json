@@ -253,6 +253,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_cxjRrT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yL9HtJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready for your next escape?",
+            "heading_size": "h1"
+          }
+        },
+        "text_mxxgHk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore dependable gear designed to help you move smarter, pack lighter, and explore with confidence.</p>"
+          }
+        },
+        "button_BgnbeH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore nature escape",
+            "button_link": "shopify://collections/nature-escape",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yL9HtJ",
+        "text_mxxgHk",
+        "button_BgnbeH"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "brand-light",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -261,6 +304,7 @@
     "rich_text_tnFcDy",
     "multicolumn_R9chKa",
     "featured_product_nomad_gear_nqfJiV",
-    "featured_collection_79AGqB"
+    "featured_collection_79AGqB",
+    "rich_text_cxjRrT"
   ]
 }
