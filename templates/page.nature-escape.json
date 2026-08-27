@@ -124,6 +124,7 @@
         "column_Ut4gj4": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/icon-1.png",
             "title": "Durable by design",
             "text": "<p>Thoughtfully made to handle the demands of getting outside.</p>",
             "link_label": "",
@@ -133,6 +134,7 @@
         "column_qaTAi8": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/icon-4.png",
             "title": "Outdoor ready",
             "text": "<p>Practical essentials for changing conditions and changing plans.</p>",
             "link_label": "",
@@ -142,6 +144,7 @@
         "column_eMwr7X": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/icon-2.png",
             "title": "Comfortable to carry",
             "text": "<p>Thoughtful designs that help you move lighter and stay comfortable.</p>",
             "link_label": "",
@@ -158,8 +161,8 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "third",
+        "image_ratio": "circle",
         "button_label": "",
         "button_link": "",
         "columns_desktop": 3,
